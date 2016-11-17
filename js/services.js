@@ -53,7 +53,7 @@ angular.module('places.services', [])
                 var idx = (null == index) ? "." : (index + 1)
                 poi.options = {
                     title: poi.cleansedMerchantName,
-                    icon: 'http://chart.apis.google.com/chart?chst=d_map_spin&chld=.5|0|fd9827|10|b|' + idx
+                    icon: 'https://chart.apis.google.com/chart?chst=d_map_spin&chld=.5|0|fd9827|10|b|' + idx
                 };
                 poi.pos = [parseFloat(poi.latitude), parseFloat(poi.longitude)]
             },
