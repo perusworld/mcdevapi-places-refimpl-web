@@ -1,0 +1,79 @@
+<ion-view>
+  <ion-nav-title>{{poi.cleansedMerchantName}} Details</ion-nav-title>
+  <ion-content>
+    <div class="list">
+      <div class="item item-divider item-icon-left">
+        <i class="icon ion-home"></i> {{poi.cleansedMerchantName}}
+        <span ng-if="poi.newBusinessFlag == 'TRUE'" class="badge badge-balanced">new</span>
+      </div>
+      <div class="item">
+        <h2>Legal Corporate Name</h2>
+        <p>{{poi.cleansedLegalCorporateName}}</p>
+      </div>
+      <div class="item">
+        <h2>Date Established</h2>
+        <p>{{poi.dateEstablished}}</p>
+      </div>
+      <a class="item item-icon-right" href="">
+        <h2>Address</h2>
+        <p>
+          {{poi.cleansedStreetAddr}} {{poi.cleansedCityName}} {{poi.cleansedStateProvidenceCode}} {{poi.cleansedPostalCode}} {{poi.cleansedCountryCode}}
+        </p>
+        <i class="icon ion-ios-location-outline"></i>
+      </a>
+      <a class="item item-icon-right" href="tel:{{poi.cleansedTelephoneNumber}}">
+        <h2>Phone</h2>
+        <p>
+          {{poi.cleansedTelephoneNumber}}
+        </p>
+        <i class="icon ion-ios-telephone-outline"></i>
+      </a>
+      <div class="item item-divider">
+        <h2>Services</h2>
+      </div>
+      <div class="item item-icon-right">
+        <h2>Cash Back</h2>
+        <i ng-if="poi.cashBack == 'TRUE'" class="icon ion-android-checkbox-outline"></i>
+        <i ng-if="poi.cashBack == 'FALSE'" class="icon ion-android-checkbox-outline-blank"></i>
+      </div>
+      <div class="item item-icon-right">
+        <h2>Pay At The Pump</h2>
+        <i ng-if="poi.payAtThePump == 'TRUE'" class="icon ion-android-checkbox-outline"></i>
+        <i ng-if="poi.payAtThePump == 'FALSE'" class="icon ion-android-checkbox-outline-blank"></i>
+      </div>
+      <div class="item item-icon-right">
+        <h2>NFC Support</h2>
+        <i ng-if="poi.nfcFlag == 'TRUE'" class="icon ion-android-checkbox-outline"></i>
+        <i ng-if="poi.nfcFlag == 'FALSE'" class="icon ion-android-checkbox-outline-blank"></i>
+      </div>
+      <div class="item item-icon-right">
+        <h2>In Business</h2>
+        <i ng-if="poi.inBusiness7DayFlag == 'TRUE'" class="icon ion-android-checkbox-outline"></i>
+        <i ng-if="poi.inBusiness7DayFlag == 'FALSE'" class="icon ion-android-checkbox-outline-blank"></i>
+      </div>
+      <div class="item item-divider">
+        <h2>Attributes</h2>
+      </div>
+      <div class="item">
+        <h2>MCC Code</h2>
+        <p>{{poi.mccCode}}</p>
+      </div>
+      <div class="item">
+        <h2>Industry Code</h2>
+        <p>{{poi.industry}}</p>
+      </div>
+      <div class="item">
+        <h2>Metropolitan Statistical Area Code</h2>
+        <p>{{poi.msaCode}}</p>
+      </div>
+      <div class="item">
+        <h2>NAICS Code</h2>
+        <p>{{poi.naicsCode}}</p>
+      </div>
+      <div class="item">
+        <h2>Designated Market Area Code</h2>
+        <p>{{poi.dmaCode}}</p>
+      </div>
+    </div>
+  </ion-content>
+</ion-view>

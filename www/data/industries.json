@@ -1,0 +1,208 @@
+{
+    "MerchantIndustryList": {
+        "MerchantIndustryArray": {
+            "MerchantIndustry": [
+                {
+                    "Industry": "AAC",
+                    "IndustryName": "Children's Apparel"
+                },
+                {
+                    "Industry": "AAF",
+                    "IndustryName": "Family Apparel"
+                },
+                {
+                    "Industry": "ACC",
+                    "IndustryName": "Accommodations"
+                },
+                {
+                    "Industry": "ACS",
+                    "IndustryName": "Automotive New and Used Car Sales"
+                },
+                {
+                    "Industry": "ADV",
+                    "IndustryName": "Advertising Services"
+                },
+                {
+                    "Industry": "AFH",
+                    "IndustryName": "Agriculture/Forestry/Fishing/Hunting"
+                },
+                {
+                    "Industry": "AFS",
+                    "IndustryName": "Automotive Fuel"
+                },
+                {
+                    "Industry": "ALS",
+                    "IndustryName": "Accounting and Legal Services"
+                },
+                {
+                    "Industry": "ARA",
+                    "IndustryName": "Amusement, Recreation Activities"
+                },
+                {
+                    "Industry": "ART",
+                    "IndustryName": "Arts and Craft Stores"
+                },
+                {
+                    "Industry": "AUC",
+                    "IndustryName": "Automotive Used Only Car Sales"
+                },
+                {
+                    "Industry": "AUT",
+                    "IndustryName": "Automotive Retail"
+                },
+                {
+                    "Industry": "BKS",
+                    "IndustryName": "Book Stores"
+                },
+                {
+                    "Industry": "BTN",
+                    "IndustryName": "Bars/Taverns/Nightclubs"
+                },
+                {
+                    "Industry": "BWL",
+                    "IndustryName": "Beer/Wine/Liquor Stores"
+                },
+                {
+                    "Industry": "CCR",
+                    "IndustryName": "Consumer Credit reporting"
+                },
+                {
+                    "Industry": "CEA",
+                    "IndustryName": "Consumer Electronics / Appliances"
+                },
+                {
+                    "Industry": "CES",
+                    "IndustryName": "Cleaning and exterminating Services"
+                },
+                {
+                    "Industry": "CGA",
+                    "IndustryName": "Casino and Gambling Activities"
+                },
+                {
+                    "Industry": "CMP",
+                    "IndustryName": "Computer / Software Stores"
+                },
+                {
+                    "Industry": "CNS",
+                    "IndustryName": "Construction Services"
+                },
+                {
+                    "Industry": "COS",
+                    "IndustryName": "Cosmetics and Beauty Services"
+                },
+                {
+                    "Industry": "CPS",
+                    "IndustryName": "Camera/Photography Supplies"
+                },
+                {
+                    "Industry": "CSV",
+                    "IndustryName": "Courier Services"
+                },
+                {
+                    "Industry": "CTE",
+                    "IndustryName": "Communications, Telecommunications Equipment"
+                },
+                {
+                    "Industry": "CTS",
+                    "IndustryName": "Communications, Telecommunications, Cable Services"
+                },
+                {
+                    "Industry": "CUE",
+                    "IndustryName": "College, University Education"
+                },
+                {
+                    "Industry": "CUF",
+                    "IndustryName": "Clothing, Uniform, Costume Rental"
+                },
+                {
+                    "Industry": "DAS",
+                    "IndustryName": "Dating Services"
+                },
+                {
+                    "Industry": "DCS",
+                    "IndustryName": "Death Care Services"
+                },
+                {
+                    "Industry": "DIS",
+                    "IndustryName": "Discount Department Stores"
+                },
+                {
+                    "Industry": "DLS",
+                    "IndustryName": "Dry Cleaning, Laundry Services"
+                },
+                {
+                    "Industry": "DPT",
+                    "IndustryName": "Department Stores"
+                },
+                {
+                    "Industry": "DSC",
+                    "IndustryName": "Drug Store Chains"
+                },
+                {
+                    "Industry": "EAP",
+                    "IndustryName": "Eating Places"
+                },
+                {
+                    "Industry": "ECA",
+                    "IndustryName": "Employment, Consulting Agencies"
+                },
+                {
+                    "Industry": "EHS",
+                    "IndustryName": "Elementary, Middle, High Schools"
+                },
+                {
+                    "Industry": "EQR",
+                    "IndustryName": "Equipment Rental"
+                },
+                {
+                    "Industry": "FLO",
+                    "IndustryName": "Florists"
+                },
+                {
+                    "Industry": "FSV",
+                    "IndustryName": "Financial Services"
+                },
+                {
+                    "Industry": "GHC",
+                    "IndustryName": "Giftware/Houseware/Card Shops"
+                },
+                {
+                    "Industry": "GRO",
+                    "IndustryName": "Grocery Stores"
+                },
+                {
+                    "Industry": "HBM",
+                    "IndustryName": "Health/Beauty/Medical Supplies"
+                },
+                {
+                    "Industry": "HCS",
+                    "IndustryName": "Health Care and Social Assistance"
+                },
+                {
+                    "Industry": "HFF",
+                    "IndustryName": "Home Furnishings / Furniture"
+                },
+                {
+                    "Industry": "HIC",
+                    "IndustryName": "Home Improvement Centers"
+                },
+                {
+                    "Industry": "INS",
+                    "IndustryName": "Insurance"
+                },
+                {
+                    "Industry": "IRS",
+                    "IndustryName": "Information Retrieval Services"
+                },
+                {
+                    "Industry": "JGS",
+                    "IndustryName": "Jewelry and Giftware"
+                },
+                {
+                    "Industry": "LEE",
+                    "IndustryName": "Live Performances, Events, Exhibits"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "geoCodeLocation": {
+        "inputAddressLine1": "2254 HIGHWAY K",
+        "responseAddressLine1": "2254 HIGHWAY K",
+        "inputAddressLine2": null,
+        "responseAddressLine2": null,
+        "inputCityName": "O FALLON",
+        "responseCityName": "O FALLON",
+        "inputCountrySubDivision": null,
+        "responseCountrySubDivision": "MO",
+        "inputCountryCode": "USA",
+        "responseCountryCode": "USA",
+        "inputPostalCode": "63368",
+        "responsePostalCode": "63368-7929",
+        "latitude": "38.777414",
+        "longitude": "-90.699736"
+    }
+}

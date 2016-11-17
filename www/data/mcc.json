@@ -1,0 +1,208 @@
+{
+    "MerchantCategoryCodeList": {
+        "MerchantCategoryCodeArray": {
+            "MerchantCategoryCode": [
+                {
+                    "MerchantCatCode": "0001",
+                    "MerchantCategoryName": "TAP (PORTUGAL)"
+                },
+                {
+                    "MerchantCatCode": "0002",
+                    "MerchantCategoryName": "ANSA INTERNATIONAL"
+                },
+                {
+                    "MerchantCatCode": "0003",
+                    "MerchantCategoryName": "CARLTON HOTELS"
+                },
+                {
+                    "MerchantCatCode": "0004",
+                    "MerchantCategoryName": "AIR CARRIERS  AIRLINES-NOT ELSEWHERE CLASSIFIED"
+                },
+                {
+                    "MerchantCatCode": "0005",
+                    "MerchantCategoryName": "TRAVEL AGENCIES AND TOUR OPERATORS"
+                },
+                {
+                    "MerchantCatCode": "0006",
+                    "MerchantCategoryName": "UTLTS-ELCTRC  GAS  HEATING OIL  SANITARY  WATER"
+                },
+                {
+                    "MerchantCatCode": "0007",
+                    "MerchantCategoryName": "COMPUTERS  COMPUTER PERIPHERAL EQUIPMENT  SOFTWARE"
+                },
+                {
+                    "MerchantCatCode": "0008",
+                    "MerchantCategoryName": "PRECIOUS STONES AND METALS  WATCHES AND JEWELRY"
+                },
+                {
+                    "MerchantCatCode": "0009",
+                    "MerchantCategoryName": "MOBILE HOME DEALERS"
+                },
+                {
+                    "MerchantCatCode": "0010",
+                    "MerchantCategoryName": "DEPARTMENT STORES"
+                },
+                {
+                    "MerchantCatCode": "0011",
+                    "MerchantCategoryName": "VARIETY STORES"
+                },
+                {
+                    "MerchantCatCode": "0012",
+                    "MerchantCategoryName": "GROCERY STORES  SUPERMARKETS"
+                },
+                {
+                    "MerchantCatCode": "0013",
+                    "MerchantCategoryName": "MISC FOOD STORE-CONVENIENCE MRKT SPLTY VENDNG MACS"
+                },
+                {
+                    "MerchantCatCode": "0014",
+                    "MerchantCategoryName": "AUTOMOTIVE PARTS  ACCESSORIES STORES"
+                },
+                {
+                    "MerchantCatCode": "0015",
+                    "MerchantCategoryName": "MEN'S AND BOY'S CLOTHING AND ACCESSORIES STORES"
+                },
+                {
+                    "MerchantCatCode": "0016",
+                    "MerchantCategoryName": "WOMEN'S READY TO WEAR STORES"
+                },
+                {
+                    "MerchantCatCode": "0017",
+                    "MerchantCategoryName": "FAMILY CLOTHING STORES"
+                },
+                {
+                    "MerchantCatCode": "0018",
+                    "MerchantCategoryName": "SHOE STORES"
+                },
+                {
+                    "MerchantCatCode": "0019",
+                    "MerchantCategoryName": "MEN'S AND WOMEN'S CLOTHING STORES"
+                },
+                {
+                    "MerchantCatCode": "0020",
+                    "MerchantCategoryName": "EQUIP  FURNITURE  HOME FURNSHNGS STRS (EXCPT APPL)"
+                },
+                {
+                    "MerchantCatCode": "0021",
+                    "MerchantCategoryName": "MISCELLANEOUS HOUSE FURNISHING SPECIALTY SHOPS"
+                },
+                {
+                    "MerchantCatCode": "0022",
+                    "MerchantCategoryName": "ELECTRONIC SALES"
+                },
+                {
+                    "MerchantCatCode": "0023",
+                    "MerchantCategoryName": "COMPUTER SOFTWARE STORES"
+                },
+                {
+                    "MerchantCatCode": "0024",
+                    "MerchantCategoryName": "EATING PLACES  RESTAURANTS"
+                },
+                {
+                    "MerchantCatCode": "0025",
+                    "MerchantCategoryName": "BAR LOUNGE DISCO NIGHTCLUB TAVERN-ALCOHOLIC DRINKS"
+                },
+                {
+                    "MerchantCatCode": "0026",
+                    "MerchantCategoryName": "SPORTING GOODS STORES"
+                },
+                {
+                    "MerchantCatCode": "0027",
+                    "MerchantCategoryName": "BOOK STORES"
+                },
+                {
+                    "MerchantCatCode": "0028",
+                    "MerchantCategoryName": "CLOCK  JEWELRY  WATCH  AND SILVERWARE STORE"
+                },
+                {
+                    "MerchantCatCode": "0029",
+                    "MerchantCategoryName": "GAME  TOY  AND HOBBY SHOPS"
+                },
+                {
+                    "MerchantCatCode": "0030",
+                    "MerchantCategoryName": "GIFT  CARD  NOVELTY AND SOUVENIR SHOPS"
+                },
+                {
+                    "MerchantCatCode": "0031",
+                    "MerchantCategoryName": "DIRECT MARKETING-OTHER DIRECT MARKETERS-NOT ELSEW."
+                },
+                {
+                    "MerchantCatCode": "0032",
+                    "MerchantCategoryName": "FUEL DEALERS-COAL  FUEL OIL  LIQ PETROLEUM  WOOD"
+                },
+                {
+                    "MerchantCatCode": "0033",
+                    "MerchantCategoryName": "LODGING-HOTELS MOTELS RESORTS-NOT CLASSIFIED"
+                },
+                {
+                    "MerchantCatCode": "0034",
+                    "MerchantCategoryName": "TIMESHARES"
+                },
+                {
+                    "MerchantCatCode": "0035",
+                    "MerchantCategoryName": "BARBER AND BEAUTY SHOPS"
+                },
+                {
+                    "MerchantCatCode": "0036",
+                    "MerchantCategoryName": "OTHER SERVICES (NOT ELSEWHERE CLASSIFIED)"
+                },
+                {
+                    "MerchantCatCode": "0037",
+                    "MerchantCategoryName": "EQUIPMENT RENTAL+LEASING SVS  FURNTURE-TOOL RENTAL"
+                },
+                {
+                    "MerchantCatCode": "0038",
+                    "MerchantCategoryName": "BUSINESS SERVICES-NOT ELSEWHERE CLASSIFIED"
+                },
+                {
+                    "MerchantCatCode": "0039",
+                    "MerchantCategoryName": "AUTOMOBILE RENTAL AGENCY-NOT ELSEWHERE CLASSIFIED"
+                },
+                {
+                    "MerchantCatCode": "0040",
+                    "MerchantCategoryName": "AUTOMOTIVE SERVICE SHOPS"
+                },
+                {
+                    "MerchantCatCode": "0041",
+                    "MerchantCategoryName": "GAMBLING TRANSACTIONS"
+                },
+                {
+                    "MerchantCatCode": "0042",
+                    "MerchantCategoryName": "CLUBS-CNTRY MBRSHIP(ATHLET REC SPRTS PRIVATE GOLF"
+                },
+                {
+                    "MerchantCatCode": "0043",
+                    "MerchantCategoryName": "HOSPITALS"
+                },
+                {
+                    "MerchantCatCode": "0044",
+                    "MerchantCategoryName": "PORTUGAL MONEY TRANSFER"
+                },
+                {
+                    "MerchantCatCode": "0045",
+                    "MerchantCategoryName": "PORTUGAL QUASI CASH-MBR FINANCIAL INSTITUTION"
+                },
+                {
+                    "MerchantCatCode": "0046",
+                    "MerchantCategoryName": "PORTUGAL QUASI CASH-MERCHANT"
+                },
+                {
+                    "MerchantCatCode": "0047",
+                    "MerchantCategoryName": "PORTUGAL REMOTE STORED VALUE LOAD-MBR FIN. INST."
+                },
+                {
+                    "MerchantCatCode": "0048",
+                    "MerchantCategoryName": "PORTUGAL REMOTE STORED VALUE LOAD-MERCHANT"
+                },
+                {
+                    "MerchantCatCode": "0049",
+                    "MerchantCategoryName": "PORTUGAL MONEY TRANSFER-MBR FIN INSTITUTION"
+                },
+                {
+                    "MerchantCatCode": "0050",
+                    "MerchantCategoryName": "PORTUGAL TRUCK STOP TRANSACTIONS"
+                }
+            ]
+        }
+    }
+}

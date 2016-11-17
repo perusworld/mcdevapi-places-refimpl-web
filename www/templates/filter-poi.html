@@ -1,0 +1,16 @@
+<ion-modal-view>
+    <ion-header-bar class="bar bar-header bar-positive">
+        <h1 class="title">Filter Places</h1>
+        <button class="button button-clear button-primary" ng-click="modal.hide()">Cancel</button>
+    </ion-header-bar>
+    <ion-content class="padding">
+        <ion-list>
+            <ion-checkbox ng-model="filter.newBusiness">New Business</ion-checkbox>
+            <ion-checkbox ng-model="filter.inBusiness">In Business</ion-checkbox>
+            <ion-checkbox ng-model="filter.cashBack">Cash Back</ion-checkbox>
+            <ion-checkbox ng-model="filter.payAtThePump">Pay At The Pump</ion-checkbox>
+            <ion-checkbox ng-model="filter.nfc">NFC Support</ion-checkbox>
+            <button class="button button-full button-positive" ng-click="doFilter()">Filter</button>
+        </ion-list>
+    </ion-content>
+</ion-modal-view>
