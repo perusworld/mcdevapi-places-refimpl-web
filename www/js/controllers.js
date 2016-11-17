@@ -81,6 +81,7 @@ angular.module('places.controllers', [])
                 PlacesService.poi(req, true, function(data) {
                     if (null != data) {
                         data = data.filter(filterPoi);
+                        data.forEach(PlacesService.prepGmaps, PlacesService);
                         if (0 < data.length) {
                             vm.mapObj.setCenter({ lat: data[0].pos[0], lng: data[0].pos[1] });
                         }
